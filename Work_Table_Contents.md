@@ -1,7 +1,7 @@
 # Wicked_Problems
 Table of Contents for Data Science 100
 
-![Jonathan Newman](https://github.com/jrnewm001/Wicked_Problems/JonathanSunlightClouds.JPG)
+![](JonathanSunlightClouds.JPG)
 Jonathan Newman, MPH, TA for Dr. Tyler Frazier.
 2nd Year Ph.D. student, Computational Biology *{Applied Science: Greg Conradi Smith (advisor)}
 
