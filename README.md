@@ -1,8 +1,8 @@
 # wicked_problems
 Data Science 100
 
-<span style="color: green">"Wicked Problems" <\span>
+**"Wicked Problems" 
 
-This is a listing of exercises, responses and reflections related to my teaching assistantship of DATA SCIENCE 100, taught by Dr. Tyler Frazier.
+This repository consists of exercises, responses and reflections related to my teaching assistantship of DATA SCIENCE 100, taught by Dr. Tyler Frazier.
 
 * Beginning of my exercise problem list
