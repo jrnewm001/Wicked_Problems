@@ -1,6 +1,7 @@
 # Wicked_Problems
-Work Index Data Science 100
+Table of Contents for Data Science 100
 
+![Jonathan Newman](url)
 Jonathan Newman, MPH, TA for Dr. Tyler Frazier.
 2nd Year Ph.D. student, Computational Biology *{Applied Science: Greg Conradi Smith (advisor)}
 
