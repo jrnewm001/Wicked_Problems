@@ -1,4 +1,4 @@
-# wicked_problems
+# Wicked_Problems
 Data Science 100
 
 **"Wicked Problems" 
