@@ -2,7 +2,9 @@
 Table of Contents for Data Science 100
 
 ![](JonathanSunlightClouds.JPG)
-Jonathan Newman, MPH, TA for Dr. Tyler Frazier.
+Jonathan Newman, MPH
+**TA for Dr. Tyler Frazier
+
 2nd Year Ph.D. student, Computational Biology *{Applied Science: Greg Conradi Smith (advisor)}
 
 **Wicked Problems: 
