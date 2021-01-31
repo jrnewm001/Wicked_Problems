@@ -13,4 +13,4 @@ Jonathan Newman, MPH
 
 This repository consists of exercises, responses and reflections related to my teaching assistantship of DATA SCIENCE 100, taught by Dr. Tyler Frazier:
 
-1. [Introduction, Acclimation to R Exercises](R_intro_work.md)
+1. [Introduction, Acclimation to R Exercises](R_intro_work.html)
