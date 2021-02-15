@@ -20,6 +20,4 @@ Map of interior regions via Humanitarian Data Exchange (HDX) (United Nations Off
 
 ![]
 
-Are they the same? Are there any differences? Which source do you think more closely describes the local political reality within your selected LMIC? Do the HDX shapefiles work?
-
-In comparing GADM, HDX and geoBoundaries, be sure to identify the source of each data set. Are these administrative boundaries primary or secondary sources? Are you able to identify who produced the data? How did each repository obtain the data they are sharing with you?
+They are, in fact, different. The OCHA data internal boundaries are from a primary source, and seem much more detailed, real, and perhaps accurate. I would more closely trust the United Nations OCHA organization via humanitarian data. In that the United Nations may be closer to political realities in real time within Africa, in contradistinction to William & Mary's Geoboundaries project (a collection of sources), I would guess the above map better mirrors local political reality within Zambia.
