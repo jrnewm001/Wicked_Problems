@@ -10,13 +10,12 @@ Zambia, with more complexity, including main sub-territories:
 
 ![](Zambia_interior_2.png)
 
-*Individual Stretch Goal #1
-
-Map of interior regions via W&M's GeoBoundaries lab (geoBoundaries v. 3.0.0', https://www.geoboundaries.org, Runfola D, Anderson A, Baier H, Crittenden M, Dowker E, Fuhrig S, et al. (2020) geoBoundaries: A global database of political administrative boundaries. PLoS ONE 15(4): e0231866. https://doi.org/10.1371/journal.pone.0231866.)
+*Individual Stretch Goal #1*
+Map of interior regions via W&M's GeoBoundaries lab (geoBoundaries v. 3.0.0', https://www.geoboundaries.org, Runfola D, Anderson A, Baier H, Crittenden M, Dowker E, Fuhrig S, et al. (2020) geoBoundaries: A global database of political administrative boundaries. PLoS ONE 15(4): e0231866. https://doi.org/10.1371/journal.pone.0231866.):
 
 ![](Geobound_Zambia.png)
 
-Map of interior regions via Humanitarian Data Exchange (HDX) (United Nations Office for the Coordination of Human Affairs (OCHA) @https://data.humdata.org/dataset/zambia-administrative-boundaries-level-1-provinces-and-level-2-districts-with-census-2010-population)
+Map of interior regions via Humanitarian Data Exchange (HDX) (United Nations Office for the Coordination of Human Affairs (OCHA) @https://data.humdata.org/dataset/zambia-administrative-boundaries-level-1-provinces-and-level-2-districts-with-census-2010-population):
 
 ![](HDX_Zambia.png)
 
