@@ -15,4 +15,4 @@ This repository consists of exercises, responses and reflections related to my t
 
 1. [Introduction, Acclimation to R Exercises](R_intro_work.html)
 2. [Projecting, Plotting and Labelling Administrative Subdivisions of a Nation](nation_mapping.html)
-3. [Individual Stretch Goal #1]()
+3. 
