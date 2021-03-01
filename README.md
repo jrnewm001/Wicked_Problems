@@ -11,8 +11,9 @@ Jonathan Newman, MPH
 \
 **Wicked Problems: 
 
-This repository consists of exercises, responses and reflections related to my teaching assistantship of DATA SCIENCE 100, taught by Dr. Tyler Frazier:
+This repository consists of exercises, extra-effortful goals, responses and reflections related to my teaching assistantship of DATA SCIENCE 100, taught by Dr. Tyler Frazier:
 
 1. [Introduction, Acclimation to R Exercises](R_intro_work.html)
 2. [Projecting, Plotting and Labelling Administrative Subdivisions of a Nation](nation_mapping.html)
-3. 
+3. [Extracting Populations from a Raster and Unit Aggregation]
+4. [Geometric Bar Plot with Simple Feature Object
