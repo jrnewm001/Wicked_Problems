@@ -6,8 +6,7 @@ Jonathan Newman, MPH
 
 **TA for Dr. Tyler Frazier  
 \
-2nd Year Ph.D. student, Computational Biology
-*{Applied Science: Greg Conradi Smith (advisor)}  
+Graduate Student, Applied Science, Computational Biology
 \
 **Wicked Problems: 
 
